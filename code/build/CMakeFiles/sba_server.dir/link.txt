@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\sba_server.dir/objects.a
+D:\mingw64\bin\ar.exe qc CMakeFiles\sba_server.dir/objects.a @CMakeFiles\sba_server.dir\objects1.rsp
+D:\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\sba_server.dir/objects.a -Wl,--no-whole-archive -o sba_server.exe -Wl,--out-implib,libsba_server.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sba_server.dir\linkLibs.rsp

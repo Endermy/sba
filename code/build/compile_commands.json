@@ -1,0 +1,32 @@
+[
+{
+  "directory": "D:/sba/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/sba_server.dir/includes_CXX.rsp -g -o CMakeFiles\\sba_server.dir\\main.cpp.obj -c D:\\sba\\code\\main.cpp",
+  "file": "D:/sba/code/main.cpp",
+  "output": "CMakeFiles/sba_server.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/sba/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/sba_server.dir/includes_CXX.rsp -g -o CMakeFiles\\sba_server.dir\\src\\html.cpp.obj -c D:\\sba\\code\\src\\html.cpp",
+  "file": "D:/sba/code/src/html.cpp",
+  "output": "CMakeFiles/sba_server.dir/src/html.cpp.obj"
+},
+{
+  "directory": "D:/sba/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/sba_server.dir/includes_CXX.rsp -g -o CMakeFiles\\sba_server.dir\\src\\json.cpp.obj -c D:\\sba\\code\\src\\json.cpp",
+  "file": "D:/sba/code/src/json.cpp",
+  "output": "CMakeFiles/sba_server.dir/src/json.cpp.obj"
+},
+{
+  "directory": "D:/sba/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/sba_server.dir/includes_CXX.rsp -g -o CMakeFiles\\sba_server.dir\\src\\tools.cpp.obj -c D:\\sba\\code\\src\\tools.cpp",
+  "file": "D:/sba/code/src/tools.cpp",
+  "output": "CMakeFiles/sba_server.dir/src/tools.cpp.obj"
+},
+{
+  "directory": "D:/sba/code/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/sba_server.dir/includes_CXX.rsp -g -o CMakeFiles\\sba_server.dir\\src\\yoursql.cpp.obj -c D:\\sba\\code\\src\\yoursql.cpp",
+  "file": "D:/sba/code/src/yoursql.cpp",
+  "output": "CMakeFiles/sba_server.dir/src/yoursql.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+D:/sba/code/build/CMakeFiles/sba_server.dir
+D:/sba/code/build/CMakeFiles/edit_cache.dir
+D:/sba/code/build/CMakeFiles/rebuild_cache.dir

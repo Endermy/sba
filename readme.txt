@@ -1,0 +1,6 @@
+code文件夹里面放的是源码,main.cpp就在里面
+release文件夹放的是编译后的exe和所需文件,不要把config.txt和libmysql.dll删除
+relesae/sba_server.exe是编译好的软件,启动时需要和libmysql.dll在同一目录下
+release/client文件夹里放的是给esp8266用的客户端代码,需要跟着注释硬编码所需信息并烧入单片机
+release/sbaSQL.sql是初始化数据库用的sql脚本
+report里面放的是task1和task2的pdf报告
